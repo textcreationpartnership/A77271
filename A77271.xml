@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The anatomy of et cætera. Or the unfolding of that dangerous oath in the close of the sixth canon. As it was contrived by the bishops and some of the clergie, in their late oath ex officio, cunningly obliging the consciences of his Majesties subjects to observe and obey whatsoever errours they would impose. Condemned and dissected in a passionate conference betwixt the two zealous brothers Roger and Ralph, penned at the first injunction of the new canons, and now publisht since their abolishment. / By an Oxfordshire gentleman.</title>
+            <author>Yarb, Samoth, fl. 1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77271</idno>
+            <idno type="STC">Wing B4284</idno>
+            <idno type="STC">Thomason E169_1</idno>
+            <idno type="STC">ESTC R14636</idno>
+            <idno type="EEBO-CITATION">99859707</idno>
+            <idno type="PROQUEST">99859707</idno>
+            <idno type="VID">157016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157016)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E169[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The anatomy of et cætera. Or the unfolding of that dangerous oath in the close of the sixth canon. As it was contrived by the bishops and some of the clergie, in their late oath ex officio, cunningly obliging the consciences of his Majesties subjects to observe and obey whatsoever errours they would impose. Condemned and dissected in a passionate conference betwixt the two zealous brothers Roger and Ralph, penned at the first injunction of the new canons, and now publisht since their abolishment. / By an Oxfordshire gentleman.</title>
+                  <author>Yarb, Samoth, fl. 1641.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Samoth Yarb is an anagram of Thomas Bray.  Cf. NUC pre-1956.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths (Canon law) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157016:1"/>
+            <pb facs="tcp:157016:1" rendition="simple:additions"/>
+            <p>THE ANATOMY Of <hi>Et caetera.</hi>
+            </p>
+            <p>Or the unfolding of that dan<g ref="char:EOLhyphen"/>gerous <hi>Oath</hi> in the cloſe of the Sixth <hi>Canon.</hi>
+            </p>
+            <p>As it was contrived by the Biſhops and ſome of the Clergie, in their late Oath <hi>Ex Officio,</hi> cunningly obliging the Conſci<g ref="char:EOLhyphen"/>ences of his Majeſties Subjects to obſerve and obey whatſoever errours they would impoſe.</p>
+            <p>Condemned and diſſected in a paſſionate Conference be<g ref="char:EOLhyphen"/>twixt the two zealous Brothers <hi>Roger</hi> and <hi>Ralph,</hi> pen<g ref="char:EOLhyphen"/>ned at the firſt injunction of the new Canons, and now publiſht ſince their aboliſhment.</p>
+            <p>By an <hi>Oxfordſhire</hi> Gentleman.</p>
+            <p>London printed. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:157016:2"/>
+            <pb n="1" facs="tcp:157016:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>Wo of the zealous Tribe being inſpired, as they tearmed it, and having a greater parcell of the ſpirit than at other times, after a great deal of chat, now concerning this thing, and now again concerning that thing, at laſt drew themſelves as far as the <hi>New Canons,</hi> where they read, but yet you muſt not thinke that it was without rubbes, and jarres, but comming to the <hi>Sixth Canon</hi> that ended with <hi>Et caetera,</hi> at the very ſight of which he ſwelled as much as <hi>Goliah</hi> with his weavers beam, and thus began to break forth in theſe or the like tearmes.</p>
+            <sp>
+               <speaker>Roger.</speaker>
+               <p>I that have behaved my ſelfe ſo well, that now I am in ſincerity elected a Zealous Brother, I that having my worth ſeen am for it rewarded with twenty Nobles <hi>per annum,</hi> beſides what I collect eve<g ref="char:EOLhyphen"/>ry year from our Female Charity, conſidering with my ſelfe what a vile and indiſcreet thing theſe new Oathes and Canons are, I am even wrapt beſides my ſelfe, and with this very word, or letter, or ſyllable, or whatſoever it is, I muſt and will diſſect it.</p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>Why brother <hi>Roger?</hi> Are thou of ſo ſhal<g ref="char:EOLhyphen"/>low capacity as thou makeſt thy ſelfe to be? Have patience pray, and rather finde fault with the Prin<g ref="char:EOLhyphen"/>ter than with the thing printed, or rather with him which ſet the Printer on worke than with the Printer
+<pb n="2" facs="tcp:157016:3"/>himſelfe, theſe times are corrupted, for why? corrupt men have ruled us here in this Land.</p>
+               <p>
+                  <hi>Here could</hi> Roger <hi>hold no longer, but like to a Bear-dog, he yawnes, and barkes, and bawles, ſaying.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Roger.</speaker>
+               <p>In ſincerity brother <hi>Ralph,</hi> thou doeſt not know what an urging this is to me, ſee what a vile miſhapen monſter it is, this <hi>Et caetera</hi> God bleſſe us! is a Limbe of the Devill, or as they pleaſe to con<g ref="char:EOLhyphen"/>ſtrue it, according to their wooden headed wit, That brand which is upon the buttocke of the Beaſt, the Dragons tail tied up together in an Antichriſtian knot, it is nothing elſe but a neſt of young Apocry<g ref="char:EOLhyphen"/>phaes, nay, I thinke that the divineſt inſpiration can never unfold and ſet out to open view this Impe of Hell, this Caterpiller, this Toad, or what not.</p>
+               <p>
+                  <hi>Now whilest</hi> Roger <hi>is in his mad way dividing the Text,</hi> Ralph <hi>begins to winke, to ſpit, to ſtreak his beard, and expound, ſpeaking to</hi> Roger.</p>
+            </sp>
+            <sp>
+               <speaker>Ralph.</speaker>
+               <p>My pious and moſt zealous Brother, hear<g ref="char:EOLhyphen"/>ken with fear and reverence to what I ſhall now ſay, not of my ſelfe, but by divine revelation. This is a very nice point, being clouded much with the ſophi<g ref="char:EOLhyphen"/>ſticall fallacies of the <hi>quondam</hi>-learned, I never read on't but it cauſed me to faſte twice at the leaſt, inſo<g ref="char:EOLhyphen"/>much that now I have had ſo much by revelation that I have found this <hi>Et caetera</hi> to be one of the idola<g ref="char:EOLhyphen"/>trous litter.</p>
+               <p>
+                  <hi>But</hi> Roger <hi>now is all fire, all envy, all malice,</hi> Goliah <hi>when he vanted himſelfe againſt the Iſraelites had not halfe thoſe proud poſtures which now</hi> Roger <hi>had.</hi>
+               </p>
+            </sp>
+            <pb n="3" facs="tcp:157016:3"/>
+            <sp>
+               <speaker>Roger.</speaker>
+               <p>I ſay to thee <hi>(ſaid Roger) Et caetera</hi> thou ly<g ref="char:EOLhyphen"/>eſt, I ſay again, I will confute thee, what art thou better than a curled locke of Antichriſt, thou art that very rubbiſh which was ſent from the confuſion of <hi>Babel,</hi> for before I have done with you I will make it plain to the whole world, that the beſt of Langua<g ref="char:EOLhyphen"/>ges are confounded in this Beaſt <hi>Et caetera.</hi> Beſides, all you which are my Brethren, hearken, and take di<g ref="char:EOLhyphen"/>ligent notice of this which I ſhall ſay here, They ſay that men muſt ſwear by this Antichriſtian rubbiſh; take heed, take heed I pray, for I profeſſe ingeniouſly in good ſooth, and in very good deed, that it is dan<g ref="char:EOLhyphen"/>gerous to ſwear by <hi>Et caetera;</hi> for take this from me, whoſoever ſweares by <hi>Et caetera,</hi> ſweares more Oathes at once, than ever came barkes from triple-headed <hi>Cerberus:</hi> Do you not ſee how the old cunning Ser<g ref="char:EOLhyphen"/>pent hath hid himſelfe in folds here, and here in an <hi>Et caetera</hi> you may perceive him: O thou accurſt <hi>Et caetera!</hi> thou prodigious Antichriſtian Baſtard, now do I know what meant thoſe portentous bloudy Oi<g ref="char:EOLhyphen"/>ſters which were ſeen the other day: O <hi>Alestre!</hi> thou ancient writer of Almanacks, how didſt thou miſſe to name this <hi>Et caetera,</hi> that ill borne Baſtard in thy propheticke Almanack: but here ſee and won<g ref="char:EOLhyphen"/>der, this <hi>Et caetera</hi> is that ill portentous vault where that infernall Powder-plot lay a great while at an<g ref="char:EOLhyphen"/>chor, and ſurely Brother, I thinke it not amiſſe, and if you will be ruled by me, to keep another fifth day of <hi>November:</hi> nay, here is not all yet, <hi>Et caetera</hi> look to your ſelfe, I proteſt I will have another bout at
+<pb n="4" facs="tcp:157016:4"/>waſtiers with thee, and ſo have at thee; thy name is as ominous as a blazing Star at three of the clocke in the afternoon, or as a Schreech-owle hovering about the houſe in day-time, nay my expreſſions fail me to paint thee out in thy colours. The <hi>Trojan</hi> Nag was never ſo gorg'd with miſchiefe, as this ominous, ill-conditioned <hi>Et caetera, Og</hi> and <hi>Schon</hi> thoſe two great Commiſſaries and enemies to the Lords anointed ne<g ref="char:EOLhyphen"/>ver deſerved halfe that ill which this il-ſhapen ſlave <hi>Et caetera</hi> hath done. And now I finde my ſelfe almoſt tired in following this light-footed miſchiefe, and now my Babes of Grace, my greateſt deſire is that you would be cautious how you ſwear by <hi>Et caetera,</hi> for you have already heard how dangerous and damn<g ref="char:EOLhyphen"/>able <hi>Et caetera</hi> is, for indeed now to unfold the truth of all, if it were pulled out at length, it is juſt like unto a <hi>York ſhire</hi> way-bit, longer by far than a mile.</p>
+               <p>
+                  <hi>But now he is inſpired, he ſweareth,</hi> now truly, in truth, in ſincerity, and in very good deed; <hi>in words at length, and not in figures, that this</hi> Et caetera <hi>did more trouble his conſcience than ever the fall of one of his dearest Sisters ever did. But now you muſt note, that he dranke, which he takes off all, becauſe he was afraid to leave</hi> Et caetera <hi>in the bottom of the cup: his Brother</hi> Ralph <hi>pledg'd him, and marke how it ſell out, he ſweares by the Sacke he drinkes, he will prove a catylier, or worſe to the Synod, if worſe might be.</hi>
+               </p>
+               <l>Thus they dranke on, not offering to part,</l>
+               <l>Till they had ſworne out the eleventh quart,</l>
+               <l>Whileſt all that heard and ſaw them, joyntly ſay,</l>
+               <l>They and their Tribe are all, <hi>Et caetera.</hi>
+               </l>
+               <pb n="5" facs="tcp:157016:4"/>
+               <p>
+                  <hi>Well, theſe two Zealous Brothers had dranke ſo long to<g ref="char:EOLhyphen"/>gether that they played the beasts, like a couple of drunken rogues,</hi> &amp;c. <hi>and then they must needs quarrell, and make themſelves, and Religion in them to be ſcoffed egregiouſly, and indeed it is an ancient proverbe,</hi> When theeves fall out, true men come by their goods.</p>
+               <p>
+                  <hi>It chanced that</hi> Roger <hi>gave</hi> Ralph <hi>ſome words in his drinke, which did not very well pleaſe him, which made</hi> Ralph <hi>break out beyond the bounds of modeſty, and told him that he was a diſſembling knave, and that he could prove him ſo, for ſaid</hi> Ralph, Is it not the part of a knave to carry another mans wife ſo far as <hi>Banbury</hi> in <hi>Oxford ſhire,</hi> and there to live with her, and keep her as your owne wife? fie, fie, for ſhame.</p>
+               <p>Nay, <hi>ſaid Roger,</hi> hic-up, if you go to that, hic-up, you are as arrant a knave, hic-up, as my ſelfe, for do you remember, you Slave you, how you wiſht your wife in the <hi>Low Countries,</hi> to ſay, that you were her brother, becauſe ſhe was fair, and that it might be ſaid that you imitated <hi>Abraham,</hi> when he was a good man, whereas thou art a ſtinking Rogue.</p>
+               <p>
+                  <hi>Thus they brawled, and ſcolded, and ſcolded, and brawled, till they fell aſleep, in which pickle I left them.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
